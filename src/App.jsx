@@ -25,8 +25,9 @@ import FurnitureSingle from './singles/FurnitureSingle';
 
 import KitchenSingle from './singles/KitchenSingle';
 
-import UserCart from './stores/userCart';
- function App() {
+import UserCart from "./stores/UserCart"
+
+function App() {
  
   return (
     
